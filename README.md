@@ -1,0 +1,1 @@
+# Exemplo-de-conex-o-do-banco-de-dados-Sequelize-com-Sqlite3
